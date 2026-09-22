@@ -20,7 +20,6 @@ All photos are from Wikimedia Commons, resized and cropped.
 | cover.jpg | Anusantara | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Uluwatu_Temple_at_Sunset.jpg |
 | dream-beach.jpg | Aurelia Teslaru | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Dream_Beach,_Nusa_Lembogan,_Bali,_Indonesia.jpg |
 | devils-tear.jpg | Sgroey | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Devils_tear_lembongan.jpg |
-| yellow-bridge.jpg | Jenni | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Nusa_Lembongan_Yellow_Bridge_In_Bali_Indonesia_(32969993).jpeg |
 | mangrove.jpg | Burmesedays | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Nusa_Lembongan_Mangroves_and_Jukung_Boat.jpg |
 - melasti.jpg — "Melasti Beach coast" by Dare2Leap, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Melasti_Beach_coast.jpg
 - padang-padang.jpg — "Padang Padang Beach" by TMFalkner, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Padang_Padang_Beach.jpg
