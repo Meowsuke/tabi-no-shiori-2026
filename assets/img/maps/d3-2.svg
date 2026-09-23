@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="113.96539 8.40509 0.07297 0.04378" width="400" height="240" role="img" aria-label="ティルタ・エンプルからテガラランへ">
+<rect x="113.96539" y="8.40509" width="0.07297" height="0.04378" fill="#dfeaf0"/>
+<path d="" fill="#f7f4ee" stroke="#8fb3bd" stroke-width="0.000219" stroke-linejoin="round"/>
+<polyline points="113.87561,8.72313 114.01964,8.41436 113.98412,8.43961 113.95076,8.48359 113.96240,8.51873 113.96674,8.50672 113.87561,8.72313" fill="none" stroke="#c9a648" stroke-width="0.000292" stroke-dasharray="0.000730 0.000730" opacity=".8"/>
+<line x1="114.01964" y1="8.41436" x2="113.98412" y2="8.43961" stroke="#2f7f8f" stroke-width="0.000584" stroke-linecap="round"/>
+<g transform="translate(113.98412 8.43961) rotate(144.6)"><path d="M-0.002554,-0.001277 L-0.000547,0 L-0.002554,0.001277" fill="none" stroke="#2f7f8f" stroke-width="0.000584" stroke-linecap="round" stroke-linejoin="round"/></g>
+<circle cx="114.01964" cy="8.41436" r="0.001277" fill="#2f7f8f" stroke="#fff" stroke-width="0.000456"/>
+<circle cx="113.98412" cy="8.43961" r="0.001642" fill="#d07a5c" stroke="#fff" stroke-width="0.000456"/>
+</svg>
