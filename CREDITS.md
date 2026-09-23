@@ -12,7 +12,6 @@ All photos are from Wikimedia Commons, resized and cropped.
 | uluwatu-cliffs.jpg | Jakub Hałun | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Cliffs_of_Uluwatu,_Bali,_Indonesia,_20220826_1006_1038.jpg |
 | kuta-surf.jpg | Jordy Meow | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Kuta_Indonesia_Surfer.jpg |
 | tegallalang.jpg | Vyacheslav Argenberg | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Rice_terraces,_Bali.jpg |
-| ayung-rafting.jpg | Yoshi Canopus | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Ayung_River_Rafting_1,_Bali.jpg |
 | tanah-lot.jpg | CEphoto, Uwe Aranas | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Tanah-Lot_Bali_Indonesia_Pura-Tanah-Lot-01.jpg |
 | uluwatu.jpg | CEphoto, Uwe Aranas | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Kuta_Bali_Indonesia_Pura-Luhur-Uluwatu-01.jpg |
 | kecak.jpg | Carfiend | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Kecak_dancers,_Uluwatu,_Bali.JPG |
